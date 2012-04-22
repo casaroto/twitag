@@ -57,8 +57,7 @@ public class TwittagServlet extends HttpServlet {
 		try {
 //			TwitReader twreader = new TwitReader();
 //			String user = request.getParameter("user");
-//			String textoLimpo2 = twreader.readTwits(user, request);
-		
+//			String textoLimpo = twreader.readTwits(user, request);
 
 			
 			TextWeightWS textWeightWS = new TextWeightWS();
