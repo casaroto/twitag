@@ -63,7 +63,7 @@ public class TwittagServlet extends HttpServlet {
 			
 			TextWeightWS textWeightWS = new TextWeightWS();
 			
-			Map<String, String> mapResult = textWeightWS.chamarWSRelevancia();
+			Map<String, String> mapResult = textWeightWS.chamarWSRelevancia("www.cnn.com");
 			
 			JSONResult jsonResult = new JSONResult();
 			

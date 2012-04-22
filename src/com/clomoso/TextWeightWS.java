@@ -18,19 +18,15 @@ import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 
 public class TextWeightWS {
-
-	public TextWeightWS() {
-	}
 	
-	
-	
-	protected Map<String, String> chamarWSRelevancia() {
+	protected Map<String, String> chamarWSRelevancia(String url) {
 		Map<String, String>	mapResult = new HashMap<String, String>();
-		String	link = "http://api.semantichacker.com/4kzsff26/concept?uri=http%3a%2f%2fwww.distrowatch.org";
+		//String	link = "http://api.semantichacker.com/4kzsff26/concept?uri=http%3a%2f%2fwww.distrowatch.org";
+		String	link = "http://api.semantichacker.com/4kzsff26/concept?uri=http%3a%2f%2f"+ url;
 		
 		try {
-			URL url = new URL(link);
-			URLConnection ucon = url.openConnection();			
+			URL urlLink = new URL(link);
+			URLConnection ucon = urlLink.openConnection();			
 		
 			InputStream is = ucon.getInputStream();
 			
