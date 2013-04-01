@@ -1,1 +1,60 @@
 teste
+
+
+http://s2.glbimg.com/KaNWiZpAVEZ-GvprCMVQZpqtUVhjBzeMzVK4guAaz49dNzmsr-1uvxUiHiOqiccU/s.glbimg.com/es/ge/f/original/2012/06/07/ufc_timboetsch_get.jpg
+http://s.glbimg.com/KaNWiZpAVEZ-GvprCMVQZpqtUVhjBzeMzVK4guAaz49dNzmsr-1uvxUiHiOqiccU/es/ge/f/90x68/2012/06/07/ufc_timboetsch_get.jpg
+http://s2.glbimg.com/KaNWiZpAVEZ-GvprCMVQZpqtUVhjBzeMzVK4guAaz49dNzmsr-1uvxUiHiOqiccU/s.glbimg.com/es/ge/f/90x68/2012/06/07/ufc_timboetsch_get.jpg
+
+img do site - ok
+http://s2.glbimg.com/t-PO3K1YJmzJ-YmybMA5p0fuJiLi1RFLWC1G_XdcGdwalaXQ9-y4rB3y9N9A8OSN/s.glbimg.com/es/ge/f/original/2012/06/07/arianny_1.jpg
+
+
+http://s.glbimg.com/es/ge/f/90x68/2012/06/05/pedrorizzo_ufc_div_60.jpg
+
+http://s2.glbimg.com/t-PO3K1YJmzJ-YmybMA5p0fuJiLi1RFLWC1G_XdcGdwalaXQ9-y4rB3y9N9A8OSN/s.glbimg.com/es/ge/f/original/2012/06/05/pedrorizzo_ufc_div_60.jpg
+
+ok
+http://s2.glbimg.com/ZPZeBdx-YslkZMjh3YYaFauFTRFIcDJh3kR9ln73cbP83hbChe-SQD7XYHEio1FJ/s.glbimg.com/es/ge/f/original/2012/06/05/pedrorizzo_ufc_div_60.jpg
+
+
+onerror="javascript: wp_404_images_fix = window.wp_404_images_fix || function(){}; wp_404_images_fix(this);"
+
+
+		return preg_replace(
+			'~<img~Uis',
+			'<img onError="javascript: wp_404_images_fix = window.wp_404_images_fix || function(){}; wp_404_images_fix(this);" ',
+			$content
+			);
+			
+						<?php preg_replace('~<img~Uis','<img onError="javascript: wp_404_images_fix = window.wp_404_images_fix || function(){}; wp_404_images_fix(this);" ',the_content()); ?>
+
+http://busca.globo.com/Busca/GloboEsporte/?query=pedro+rizzo
+
+	<!-- resultado -->
+	
+		
+		
+			<dt class="comMiniatura">
+				<a href="http://sportv.globo.com/site/eventos/combate/noticia/2012/06/fedor-emelianenko-nega-aposentadoria-apos-sua-luta-contra-pedro-rizzo.html" title="Fedor Emelianenko cogita continuar lutando após duelo contra Pedro Rizzo" class="link-cor-primaria">
+					<span class="icone-resultado textos"></span>
+					Fedor Emelianenko cogita continuar lutando após duelo contra Pedro Rizzo
+				</a>
+			</dt>
+		
+		
+	
+	
+	
+		<dd class="miniatura">
+			<a href="http://sportv.globo.com/site/eventos/combate/noticia/2012/06/fedor-emelianenko-nega-aposentadoria-apos-sua-luta-contra-pedro-rizzo.html" onclick="javascript:abrir('http://sportv.globo.com/site/eventos/combate/noticia/2012/06/fedor-emelianenko-nega-aposentadoria-apos-sua-luta-contra-pedro-rizzo.html','texto','Matéria'); return false;" title="Fedor Emelianenko cogita continuar lutando após duelo contra Pedro Rizzo">
+			<img src="http://s2.glbimg.com/mDpSfBLhD9n0dNaMZk6DLqbx3u1eUr1W6s9-lYQQq_XSoNoCXBZj87mIICD5I_h-/s.glbimg.com/es/ge/f/original/2012/01/08/ufc_fedoremelianenko_flickr.jpg" />
+			</a>
+		</dd>					
+					
+	
+	<dd>...aposentar depois de sua próxima luta, diante do brasileiro <b>Pedro</b> <b>Rizzo</b>. Mesmo depois de anunciar que o embate seria o último...em entrevista ao site LowKick. A luta entre Fedor e o <b>Rizzo</b> será no próximo dia 21, em São Petersburgo, na Rússia...</dd>
+	<dd class="ajuste-de-tamanho">
+		<span class="link-menor-lista-de-resultados">sportv</span> |
+		<span class="ultima-atualizacao">&#218;ltima atualiza&#231;&#227;o: 22 horas e 9 minutos atr&#225;s</span>
+	</dd>
+	<!-- /resultado -->
